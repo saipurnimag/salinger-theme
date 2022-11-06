@@ -1,4 +1,4 @@
 ---
 title: "Salinger Theme"
 ---
- I'm a computer engineering student 🖥 based on Earth 🌍.  I am keen on programming and designing random stuffs 🚀.  I like eating pizza 🍕, staring at desk plants 🌵. Please consider starring this project on Github. ✨
+I'm Purnima, a Software Engineer 👩🏻‍💻 from India 🇮🇳. <br/>I'm am currently working with Amazon Hyderabad on really cool stuff 🚀🧪. Lets just say labels 🏷 on the shipments 📦 are super fascinating 😍 to me. I also love painting 👩🏻‍🎨 and taking pictures 📸 during my free time. Btw I love talking 🗣. A lot! ✨"

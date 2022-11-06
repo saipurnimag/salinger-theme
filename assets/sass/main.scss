@@ -157,7 +157,7 @@ blockquote {
     font-size: 150% !important;
 
     p{
-      margin-top:0px;
+      margin:2px;
     }
   }
 .footnotes{
@@ -260,15 +260,18 @@ img {
   margin-bottom: 100px;
   max-width: $content-width;
   font-family: $secondary-font;
+  font-size: large;
   p {
     text-align: justify;
     margin-bottom: 0px;
     margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 }
 
 .big-title {
-  font-size: 4em;
+  font-size: 2.5em;
   @include responsive($big-display) {
     font-size: 4.5em;
   }
@@ -402,11 +405,13 @@ Emoji and Icons
   height: 1em;
   vertical-align: -0.15em;
   border-radius: 0px;
+  padding: 2;
 }
 
 .icon {
   text-decoration: none;
-  font-size: 125%;
+  font-size: 165%;
   vertical-align: -5%;
   border-radius: 0px;
+  padding: 2;
 }

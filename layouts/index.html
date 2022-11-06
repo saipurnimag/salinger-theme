@@ -14,7 +14,7 @@
 
 <div class="content" id="content">{{- .Content -}} 
    
-
+<br>
  <!-- SOCIAL --> 
     {{- if isset .Site.Params "social" }}<p class="social">
 {{ range $index, $elem := .Site.Params.social}}
@@ -29,6 +29,7 @@
 {{ end }}
 
 </div>
+
 
 
  <!-- POST LIST --> 
